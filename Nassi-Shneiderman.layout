@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="redirect_app.h" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="358" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="verificare_cod.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="16134" topLine="185" />
+		</Cursor>
+		<Folding>
+			<Collapse line="30" />
+			<Collapse line="41" />
+			<Collapse line="56" />
+			<Collapse line="67" />
+			<Collapse line="71" />
+			<Collapse line="80" />
+			<Collapse line="116" />
+			<Collapse line="124" />
+			<Collapse line="139" />
+			<Collapse line="145" />
+			<Collapse line="175" />
+			<Collapse line="193" />
+			<Collapse line="227" />
+			<Collapse line="237" />
+			<Collapse line="298" />
+			<Collapse line="329" />
+			<Collapse line="334" />
+			<Collapse line="339" />
+			<Collapse line="344" />
+			<Collapse line="375" />
+		</Folding>
+	</File>
+	<File name="meniu_grafica.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3199" topLine="101" />
+		</Cursor>
+	</File>
+	<File name="compilare_pseudocod.h" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="9266" topLine="81" />
+		</Cursor>
+		<Folding>
+			<Collapse line="21" />
+			<Collapse line="68" />
+			<Collapse line="88" />
+			<Collapse line="114" />
+			<Collapse line="132" />
+			<Collapse line="150" />
+			<Collapse line="168" />
+			<Collapse line="186" />
+			<Collapse line="213" />
+			<Collapse line="240" />
+			<Collapse line="274" />
+		</Folding>
+	</File>
+	<File name="variabile_grafica.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="735" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="algoritm_in_pseudocod_executie.txt" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="52" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="instructiuni_grafica.h" open="0" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6531" topLine="256" />
+		</Cursor>
+	</File>
+	<File name="algoritm_in_pseudocod.txt" open="1" top="1" tabpos="3" split="0" active="1" splitpos="0" zoom_1="9" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="90" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="utilitati.h" open="0" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2116" topLine="85" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="513" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="mesaje_eroare.h" open="0" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1084" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="arbore.h" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="375" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="21" />
+			<Collapse line="31" />
+			<Collapse line="36" />
+			<Collapse line="41" />
+			<Collapse line="102" />
+			<Collapse line="112" />
+			<Collapse line="130" />
+			<Collapse line="140" />
+			<Collapse line="151" />
+			<Collapse line="165" />
+			<Collapse line="180" />
+			<Collapse line="191" />
+			<Collapse line="202" />
+			<Collapse line="213" />
+			<Collapse line="222" />
+			<Collapse line="240" />
+			<Collapse line="447" />
+			<Collapse line="459" />
+		</Folding>
+	</File>
+	<File name="functii_desenare.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1836" topLine="13" />
+		</Cursor>
+		<Folding>
+			<Collapse line="4" />
+			<Collapse line="8" />
+			<Collapse line="13" />
+			<Collapse line="28" />
+			<Collapse line="34" />
+			<Collapse line="38" />
+			<Collapse line="79" />
+			<Collapse line="90" />
+			<Collapse line="131" />
+			<Collapse line="172" />
+			<Collapse line="185" />
+			<Collapse line="199" />
+			<Collapse line="212" />
+			<Collapse line="226" />
+			<Collapse line="238" />
+			<Collapse line="265" />
+			<Collapse line="287" />
+		</Folding>
+	</File>
+	<File name="structuri_blocuri_desenare.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="323" topLine="36" />
+		</Cursor>
+	</File>
+	<File name="parcurgere_pseudocod.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="11306" topLine="105" />
+		</Cursor>
+		<Folding>
+			<Collapse line="22" />
+			<Collapse line="34" />
+			<Collapse line="39" />
+			<Collapse line="48" />
+			<Collapse line="55" />
+			<Collapse line="59" />
+			<Collapse line="67" />
+			<Collapse line="75" />
+			<Collapse line="83" />
+			<Collapse line="89" />
+			<Collapse line="100" />
+			<Collapse line="160" />
+			<Collapse line="186" />
+			<Collapse line="204" />
+			<Collapse line="223" />
+			<Collapse line="448" />
+		</Folding>
+	</File>
+</CodeBlocks_layout_file>

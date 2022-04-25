@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Nassi-Shneiderman" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Nassi-Shneiderman" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Nassi-Shneiderman" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="algoritm_in_pseudocod.txt" />
+		<Unit filename="algoritm_in_pseudocod_executie.txt" />
+		<Unit filename="arbore.h" />
+		<Unit filename="compilare_pseudocod.h" />
+		<Unit filename="functii_desenare.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="instructiuni_grafica.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="meniu_grafica.h" />
+		<Unit filename="mesaje_eroare.h" />
+		<Unit filename="parcurgere_pseudocod.h" />
+		<Unit filename="redirect_app.h" />
+		<Unit filename="structuri_blocuri_desenare.h" />
+		<Unit filename="utilitati.h" />
+		<Unit filename="variabile_grafica.h" />
+		<Unit filename="verificare_cod.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

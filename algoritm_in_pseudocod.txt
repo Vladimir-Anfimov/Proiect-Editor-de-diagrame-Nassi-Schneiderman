@@ -1,0 +1,15 @@
+init(a,b);
+muta(a,24);
+muta(b,18);
+cat timp(inegal(a,b))
+{
+    daca(mare(a,b))
+    {
+        dif(a,b);
+    }
+    altfel
+    {
+        dif(b,a);
+    }
+}
+afiseaza(a);

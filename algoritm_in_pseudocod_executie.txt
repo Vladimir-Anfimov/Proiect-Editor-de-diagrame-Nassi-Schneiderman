@@ -1,0 +1,11 @@
+init(a,b,abcd);
+daca(egal(exp2,b))
+{
+    move(a,b);
+    cat timp(mareg(a,b))
+    {
+    dif(a,b);
+    exp(a,neg(egal(a,b)));
+    intrerupe();
+    }
+}

@@ -1,0 +1,126 @@
+# depslib dependency file v1.0
+1641750661 source:c:\probleme c++\nassi-shneiderman\main.cpp
+	<iostream>
+	<fstream>
+	<winbgim.h>
+	<cstring>
+	<graphics.h>
+	"utilitati.h"
+	"structuri_blocuri_desenare.h"
+	"variabile_grafica.h"
+	"functii_desenare.h"
+	"verificare_cod.h"
+	"parcurgere_pseudocod.h"
+	"instructiuni_grafica.h"
+	"meniu_grafica.h"
+	"redirect_app.h"
+
+1638191105 source:c:\probleme c++\nassi-shneiderman\1.cpp
+	<iostream>
+
+1638191230 c:\probleme c++\nassi-shneiderman\structuri_principale.c
+	<iostream>
+
+1638989478 source:c:\probleme c++\nassi-shneiderman\structuri_principale.cpp
+	<iostream>
+
+1638989478 c:\probleme c++\nassi-shneiderman\structuri_principale.cpp
+	<iostream>
+
+1638194257 c:\probleme c++\nassi-shneiderman\constante.c
+	<iostream>
+
+1639062972 c:\probleme c++\nassi-shneiderman\constante.cpp
+	<iostream>
+
+1641752355 c:\probleme c++\nassi-shneiderman\functii_desenare.h
+
+1639063877 source:c:\probleme c++\nassi-shneiderman\constante.cpp
+	<iostream>
+
+1641737173 c:\probleme c++\nassi-shneiderman\parcurgere_pseudocod.h
+	<cstring>
+	"arbore.h"
+	"compilare_pseudocod.h"
+
+1641937801 c:\probleme c++\nassi-shneiderman\arbore.h
+	<iostream>
+	<cstring>
+
+1641476230 c:\probleme c++\nassi-shneiderman\variabile_grafica.h
+
+1641559552 c:\probleme c++\nassi-shneiderman\structuri_blocuri_desenare.h
+	<iostream>
+
+1640033484 c:\probleme c++\nassi-shneiderman\meniu_grafica.h
+	<windows.h>
+
+1641639762 c:\probleme c++\nassi-shneiderman\instructiuni_grafica.h
+
+1641302232 c:\probleme c++\nassi-shneiderman\redirect_app.h
+
+1642019536 c:\probleme c++\nassi-shneiderman\verificare_cod.h
+	"mesaje_eroare.h"
+
+1641639606 c:\probleme c++\nassi-shneiderman\utilitati.h
+	<cctype>
+
+1642003089 c:\probleme c++\nassi-shneiderman\compilare_pseudocod.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1641572691 c:\probleme c++\nassi-shneiderman\mesaje_eroare.h
+
+1641750661 source:d:\work\c++\proiect\main.cpp
+	<iostream>
+	<fstream>
+	<winbgim.h>
+	<cstring>
+	<graphics.h>
+	"utilitati.h"
+	"structuri_blocuri_desenare.h"
+	"variabile_grafica.h"
+	"functii_desenare.h"
+	"verificare_cod.h"
+	"parcurgere_pseudocod.h"
+	"instructiuni_grafica.h"
+	"meniu_grafica.h"
+	"redirect_app.h"
+
+1641639606 d:\work\c++\proiect\utilitati.h
+	<cctype>
+
+1641559552 d:\work\c++\proiect\structuri_blocuri_desenare.h
+	<iostream>
+
+1641476230 d:\work\c++\proiect\variabile_grafica.h
+
+1641752355 d:\work\c++\proiect\functii_desenare.h
+
+1642019536 d:\work\c++\proiect\verificare_cod.h
+	"mesaje_eroare.h"
+
+1641572691 d:\work\c++\proiect\mesaje_eroare.h
+
+1641737173 d:\work\c++\proiect\parcurgere_pseudocod.h
+	<cstring>
+	"arbore.h"
+	"compilare_pseudocod.h"
+
+1641937801 d:\work\c++\proiect\arbore.h
+	<iostream>
+	<cstring>
+
+1642003089 d:\work\c++\proiect\compilare_pseudocod.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1641639762 d:\work\c++\proiect\instructiuni_grafica.h
+
+1640033484 d:\work\c++\proiect\meniu_grafica.h
+	<windows.h>
+
+1641302232 d:\work\c++\proiect\redirect_app.h
+
